@@ -1,16 +1,18 @@
 {
-    "name": "moila/will_project",
-    "type": "project",
-    "autoload": {
-        "psr-4": {
-            "Moila\\WillProject\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "gumani-38",
-            "email": "surprisegumani@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "moila/will_project",
+  "type": "project",
+  "description": "A brief description of your project goes here.",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "Moila\\WillProject\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "gumani-38",
+      "email": "surprisegumani@gmail.com"
+    }
+  ],
+  "require": {}
 }
