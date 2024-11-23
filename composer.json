@@ -1,0 +1,16 @@
+{
+    "name": "moila/will_project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Moila\\WillProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gumani-38",
+            "email": "surprisegumani@gmail.com"
+        }
+    ],
+    "require": {}
+}
